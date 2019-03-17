@@ -1,12 +1,66 @@
 Date,Versus,Ground,How Dismissed,Runs,S/R,catches,aggregate,catches_wk,stumping_wk,agg_wk,age,who_dismissed,played_city,played_country
-2011-03-09,England,Riverside Ground,c S R Patel b S C J Broad,40,90.91,0,0,0.0,0.0,0.0,23,S C J Broad,0,England
-2011-09-09,England,Kennington Oval,c I J L Trott b J M Anderson,0,0.0,0,0,0.0,0.0,0.0,23,J M Anderson,London,England
-2011-11-09,England,Lord's,lbw b S C J Broad,38,71.7,0,0,0.0,0.0,0.0,23,S C J Broad,London,England
-2011-10-14,England,Rajiv Gandhi International Stadium,st C Kieswetter b G P Swann,15,36.59,0,0,0.0,0.0,0.0,23,G P Swann,Hyderabad,India
-2011-10-17,England,Feroz Shah Kotla,c J W Dernbach b T T Bresnan,14,93.33,0,0,0.0,0.0,0.0,23,T T Bresnan,Delhi,India
-2013-06-01,Pakistan,Feroz Shah Kotla,c †Kamran Akmal b Mohammad Irfan,4,36.36,1,5,0.0,0.0,0.0,24,Mohammad Irfan,Delhi,India
-2011-10-20,England,Punjab Cricket Association IS Bindra Stadium,c A N Cook b S T Finn,91,87.5,0,0,0.0,0.0,0.0,23,S T Finn,"Mohali, Chandigarh",India
-2011-10-25,England,Eden Gardens,c †C Kieswetter b T T Bresnan,42,68.85,1,1,0.0,0.0,0.0,23,T T Bresnan,Kolkata,India
-2011-11-12,West Indies,MA Chidambaram Stadium,lbw b K A J Roach,0,0.0,2,3,0.0,0.0,0.0,23,K A J Roach,Chennai,India
-2012-04-08,Sri Lanka,Pallekele International Cricket Stadium,lbw b N L T C Perera,9,52.94,1,4,0.0,0.0,0.0,24,N L T C Perera,"Pallekele, Kandy",Sri Lanka
-2013-11-01,England,Saurashtra Cricket Association Stadium,c J W Dernbach b J C Tredwell,47,82.46,1,6,0.0,0.0,0.0,24,J C Tredwell,"Khandheri, Rajkot",India
+2011-03-09,England,Riverside Ground,c S R Patel b S C J Broad,40.0,90.91,0,0,0.0,0.0,0.0,23,S C J Broad,Chester-Le-Street,England
+2011-09-09,England,Kennington Oval,c I J L Trott b J M Anderson,0.0,0.0,0,0,0.0,0.0,0.0,23,J M Anderson,London,England
+2011-11-09,England,Lord's,lbw b S C J Broad,38.0,71.7,0,0,0.0,0.0,0.0,23,S C J Broad,London,England
+2011-10-14,England,Rajiv Gandhi International Stadium,st C Kieswetter b G P Swann,15.0,36.59,0,0,0.0,0.0,0.0,23,G P Swann,Hyderabad,India
+2014-09-11,Sri Lanka,Rajiv Gandhi International Stadium,c D P M D Jayawardene b N L T C Perera,31.0,65.96,2,21,0.0,0.0,0.0,26,N L T C Perera,Hyderabad,India
+2011-10-17,England,Feroz Shah Kotla,c J W Dernbach b T T Bresnan,14.0,93.33,0,0,0.0,0.0,0.0,23,T T Bresnan,Delhi,India
+2013-06-01,Pakistan,Feroz Shah Kotla,c †Kamran Akmal b Mohammad Irfan,4.0,36.36,1,5,0.0,0.0,0.0,24,Mohammad Irfan,Delhi,India
+2014-11-10,West Indies,Feroz Shah Kotla,c D J J Bravo b D J G Sammy,12.0,42.86,0,18,0.0,0.0,0.0,26,D J G Sammy,Delhi,India
+2016-10-20,New Zealand,Feroz Shah Kotla,c C J Anderson b T G Southee,28.0,57.14,1,39,0.0,0.0,0.0,28,T G Southee,Delhi,India
+2011-10-20,England,Punjab Cricket Association IS Bindra Stadium,c A N Cook b S T Finn,91.0,87.5,0,0,0.0,0.0,0.0,23,S T Finn,"Mohali, Chandigarh",India
+2016-10-23,New Zealand,Punjab Cricket Association IS Bindra Stadium,c M J Santner b M J Henry,5.0,50.0,1,40,0.0,0.0,0.0,28,M J Henry,"Mohali, Chandigarh",India
+2011-10-25,England,Eden Gardens,c †C Kieswetter b T T Bresnan,42.0,68.85,1,1,0.0,0.0,0.0,23,T T Bresnan,Kolkata,India
+2014-11-13,Sri Lanka,Eden Gardens,lbw b A D Mathews,28.0,116.67,0,21,0.0,0.0,0.0,26,A D Mathews,Kolkata,India
+2017-01-22,England,Eden Gardens,b D J Willey,1.0,16.67,0,42,0.0,0.0,0.0,28,D J Willey,Kolkata,India
+2017-09-21,Australia,Eden Gardens,run out,55.0,85.94,1,44,0.0,0.0,0.0,29,0,Kolkata,India
+2011-11-12,West Indies,MA Chidambaram Stadium,lbw b K A J Roach,0.0,0.0,2,3,0.0,0.0,0.0,23,K A J Roach,Chennai,India
+2015-10-22,South Africa,MA Chidambaram Stadium,c †Q de Kock b D W Steyn,45.0,84.91,2,35,0.0,0.0,0.0,27,D W Steyn,Chennai,India
+2017-09-17,Australia,MA Chidambaram Stadium,0,5.0,33.33,0,43,0.0,0.0,0.0,29,0,Chennai,India
+2012-04-08,Sri Lanka,Pallekele International Cricket Stadium,lbw b N L T C Perera,9.0,52.94,1,4,0.0,0.0,0.0,24,N L T C Perera,"Pallekele, Kandy",Sri Lanka
+2013-11-01,England,Saurashtra Cricket Association Stadium,c J W Dernbach b J C Tredwell,47.0,82.46,1,6,0.0,0.0,0.0,24,J C Tredwell,"Khandheri, Rajkot",India
+2015-10-18,South Africa,Saurashtra Cricket Association Stadium,c D A Miller b M Morkel,4.0,57.14,1,33,0.0,0.0,0.0,27,M Morkel,"Khandheri, Rajkot",India
+2013-01-15,England,Nehru Stadium (Kochi),b S T Finn,4.0,28.57,0,6,0.0,0.0,0.0,24,S T Finn,Kochi,India
+2014-08-10,West Indies,Nehru Stadium (Kochi),run out,24.0,109.09,0,18,0.0,0.0,0.0,26,0,Kochi,India
+2013-01-19,England,JSCA International Stadium Complex,b S T Finn,0.0,0.0,0,6,0.0,0.0,0.0,24,S T Finn,Ranchi,India
+2014-11-16,Sri Lanka,JSCA International Stadium Complex,b A D Mathews,2.0,20.0,1,22,0.0,0.0,0.0,26,A D Mathews,Ranchi,India
+2016-10-26,New Zealand,JSCA International Stadium Complex,lbw b J D S Neesham,57.0,81.43,1,41,0.0,0.0,0.0,28,J D S Neesham,Ranchi,India
+2013-03-08,Zimbabwe,Queens Sports Club,b M N Waller,50.0,75.76,0,6,0.0,0.0,0.0,25,M N Waller,Bulawayo,Zimbabwe
+2013-08-12,South Africa,Kingsmead,c †Q de Kock b M Morkel,8.0,47.06,0,6,0.0,0.0,0.0,25,M Morkel,Durban,South Africa
+2018-01-02,South Africa,Kingsmead,c Imran Tahir b A L Phehlukwayo,79.0,91.86,0,47,0.0,0.0,0.0,29,A L Phehlukwayo,Durban,South Africa
+2014-01-19,New Zealand,McLean Park,c N L McCullum b C J Anderson,7.0,53.85,1,7,0.0,0.0,0.0,25,C J Anderson,Napier,New Zealand
+2014-01-22,New Zealand,Seddon Park,c †L Ronchi b M J McClenaghan,36.0,85.71,0,7,0.0,0.0,0.0,25,M J McClenaghan,Hamilton,New Zealand
+2014-01-28,New Zealand,Seddon Park,c T G Southee b K D Mills,3.0,37.5,0,9,0.0,0.0,0.0,25,K D Mills,Hamilton,New Zealand
+2015-10-03,Ireland,Seddon Park,not out,33.0,117.86,2,25,0.0,0.0,0.0,26,0,Hamilton,New Zealand
+2014-01-25,New Zealand,Eden Park,c †L Ronchi b C J Anderson,3.0,21.43,2,9,0.0,0.0,0.0,25,C J Anderson,Auckland,New Zealand
+2015-03-14,Zimbabwe,Eden Park,run out,19.0,79.17,0,25,0.0,0.0,0.0,26,0,Auckland,New Zealand
+2014-02-26,Bangladesh,Khan Shaheb Osman Ali Stadium,c sub b Sohag Gazi,73.0,87.95,0,11,0.0,0.0,0.0,25,b Sohag Gazi,Fatullah,Bangladesh
+2014-02-28,Sri Lanka,Khan Shaheb Osman Ali Stadium,c H D R L Thirimanne b S M S M Senanayake,22.0,81.48,0,11,0.0,0.0,0.0,25,S M S M Senanayake,Fatullah,Bangladesh
+2014-02-09,England,Edgbaston,c A N Cook b H F Gurney,106.0,106.0,1,17,0.0,0.0,0.0,26,H F Gurney,Birmingham,England
+2014-05-09,England,Headingley,c E J G Morgan b J M Anderson,0.0,0.0,1,18,0.0,0.0,0.0,26,J M Anderson,Leeds,England
+2014-10-17,West Indies,Himachal Pradesh Cricket Association Stadium,lbw b S J Benn,68.0,86.08,0,18,0.0,0.0,0.0,26,S J Benn,Dharamsala,India
+2016-10-16,New Zealand,Himachal Pradesh Cricket Association Stadium,c †L Ronchi b J D S Neesham,33.0,97.06,1,38,0.0,0.0,0.0,28,J D S Neesham,Dharamsala,India
+2014-02-11,Sri Lanka,Barabati Stadium,c D P M D Jayawardene b S Randiv,111.0,102.78,1,19,0.0,0.0,0.0,26,S Randiv,Cuttack,India
+2014-06-11,Sri Lanka,Sardar Patel Stadium,c D P M D Jayawardene b K T G D Prasad,8.0,42.11,0,19,0.0,0.0,0.0,26,K T G D Prasad,Ahmedabad,India
+2015-01-18,Australia,Melbourne Cricket Ground,c †B J Haddin b G S Sandhu,12.0,54.55,0,22,0.0,0.0,0.0,26,G S Sandhu,Melbourne,Australia
+2015-02-22,South Africa,Melbourne Cricket Ground,lbw b D W Steyn,79.0,131.67,0,23,0.0,0.0,0.0,26,D W Steyn,Melbourne,Australia
+2015-03-19,Bangladesh,Melbourne Cricket Ground,c Shakib Al Hasan b Taskin Ahmed,19.0,51.35,0,25,0.0,0.0,0.0,26,Al Hasan b Taskin Ahmed,Melbourne,Australia
+2016-01-17,Australia,Melbourne Cricket Ground,c G J Maxwell b J W Hastings,50.0,90.91,1,37,0.0,0.0,0.0,27,J W Hastings,Melbourne,Australia
+2015-01-20,England,Brisbane Cricket Ground,c J W A Taylor b S T Finn,33.0,82.5,0,22,0.0,0.0,0.0,26,S T Finn,Brisbane,Australia
+2016-01-15,Australia,Brisbane Cricket Ground,c S P D Smith b J P Faulkner,89.0,111.25,1,36,0.0,0.0,0.0,27,J P Faulkner,Brisbane,Australia
+2015-02-15,Pakistan,Adelaide Oval,b Sohail Khan,0.0,0.0,1,23,0.0,0.0,0.0,26,Sohail Khan,Adelaide,Australia
+2015-10-07,Zimbabwe,Harare Sports Club,c H Masakadza b D T Tiripano,34.0,69.39,1,28,0.0,0.0,0.0,27,D T Tiripano,Harare,Zimbabwe
+2015-12-07,Zimbabwe,Harare Sports Club,c Sikandar Raza b C J Chibhabha,63.0,75.9,2,30,0.0,0.0,0.0,27,C J Chibhabha,Harare,Zimbabwe
+2015-07-14,Zimbabwe,Harare Sports Club,c P Utseya b N Madziva,15.0,68.18,2,32,0.0,0.0,0.0,27,N Madziva,Harare,Zimbabwe
+2015-11-10,South Africa,Green Park,c D A Miller b F Behardien,60.0,73.17,0,32,0.0,0.0,0.0,27,F Behardien,Kanpur,India
+2015-10-14,South Africa,Holkar Cricket Stadium,b Imran Tahir,51.0,80.95,0,32,0.0,0.0,0.0,27,Imran Tahir,Indore,India
+2017-09-24,Australia,Holkar Cricket Stadium,lbw b P J Cummins,70.0,92.11,0,44,0.0,0.0,0.0,29,P J Cummins,Indore,India
+2016-01-20,Australia,Manuka Oval,c S P D Smith b K W Richardson,2.0,66.67,0,37,0.0,0.0,0.0,27,K W Richardson,Canberra,Australia
+2016-10-29,New Zealand,Dr YS Rajasekhara Reddy Cricket Stadium,c T W M Latham b J D S Neesham,20.0,51.28,1,42,0.0,0.0,0.0,28,J D S Neesham,Visakhapatnam,India
+2017-06-23,West Indies,Queen's Park Oval,c J O Holder b A S Joseph,62.0,79.49,0,42,0.0,0.0,0.0,29,A S Joseph,"Port-Of-Spain, Trinidad",West Indies
+2017-06-25,West Indies,Queen's Park Oval,b M L Cummins,103.0,99.04,0,42,0.0,0.0,0.0,29,M L Cummins,"Port-Of-Spain, Trinidad",West Indies
+2017-06-07,West Indies,Sabina Park,lbw b D Bishoo,39.0,76.47,1,43,0.0,0.0,0.0,29,D Bishoo,"Kingston, Jamaica",West Indies
+2017-03-09,Sri Lanka,R Premadasa Stadium,c E M D Y Munaweera b S L Malinga,5.0,29.41,0,43,0.0,0.0,0.0,29,S L Malinga,Colombo,Sri Lanka
+2017-09-28,Australia,M Chinnaswamy Stadium,c A J Finch b K W Richardson,53.0,80.3,1,45,0.0,0.0,0.0,29,K W Richardson,"Bengaluru, Bangalore",India
+2018-07-02,South Africa,Newlands,0,11.0,84.62,0,48,0.0,0.0,0.0,29,0,Cape Town,South Africa
+2018-10-02,South Africa,New Wanderers Stadium,c K Rabada b L Ngidi,8.0,53.33,0,48,0.0,0.0,0.0,29,L Ngidi,Johannesburg,South Africa
