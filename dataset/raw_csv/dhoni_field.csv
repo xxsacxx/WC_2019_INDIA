@@ -1,0 +1,262 @@
+catches,aggregate,catches_wk,stumping_wk,agg_wk,age
+ ,0, , , ,23 years 169 days
+ ,0,1, ,1,23 years 172 days
+ ,0,3,2,6,23 years 173 days
+ ,0, , ,6,23 years 269 days
+ ,0,2, ,8,23 years 272 days
+ ,0, ,1,9,23 years 276 days
+ ,0, , ,9,23 years 279 days
+ ,0, , ,9,23 years 282 days
+ ,0,2, ,11,23 years 284 days
+ ,0,1, ,12,24 years 23 days
+ ,0,1, ,13,24 years 24 days
+ ,0,3, ,16,24 years 27 days
+ ,0, , ,16,24 years 31 days
+ ,0, , ,16,24 years 33 days
+ ,0,1, ,17,24 years 50 days
+ ,0, , ,17,24 years 53 days
+ ,0,1, ,18,24 years 57 days
+ ,0, ,1,19,24 years 59 days
+ ,0,1,1,21,24 years 61 days
+ ,0, ,2,23,24 years 110 days
+ ,0,1, ,24,24 years 113 days
+ ,0,1, ,25,24 years 116 days
+ ,0,1, ,26,24 years 119 days
+ ,0, , ,26,24 years 122 days
+ ,0,2,1,29,24 years 125 days
+ ,0,1, ,30,24 years 128 days
+ ,0, , ,30,24 years 132 days
+ ,0,1, ,31,24 years 135 days
+ ,0, , ,31,24 years 141 days
+ ,0, , ,31,24 years 144 days
+ ,0,1, ,32,24 years 214 days
+ ,0,1, ,33,24 years 219 days
+ ,0,3, ,36,24 years 221 days
+ ,0,3, ,39,24 years 224 days
+ ,0, , ,39,24 years 227 days
+ ,0,2, ,41,24 years 264 days
+ ,0,1,1,43,24 years 267 days
+ ,0,1, ,44,24 years 270 days
+ ,0,1, ,45,24 years 273 days
+ ,0,1, ,46,24 years 279 days
+ ,0,1, ,47,24 years 285 days
+ ,0,1, ,48,24 years 286 days
+ ,0,1, ,49,24 years 315 days
+ ,0,3, ,52,24 years 317 days
+ ,0,1, ,53,24 years 320 days
+ ,0, , ,53,24 years 323 days
+ ,0, , ,53,24 years 325 days
+ ,0, , ,53,25 years 41 days
+ ,0,1, ,54,25 years 68 days
+ ,0,3, ,57,25 years 70 days
+ ,0,2,1,60,25 years 74 days
+ ,0,1, ,61,25 years 76 days
+ ,0,1, ,62,25 years 99 days
+ ,0, , ,62,25 years 110 days
+ ,0, , ,62,25 years 113 days
+ ,0,2,1,65,25 years 137 days
+ ,0,1, ,66,25 years 141 days
+ ,0,1, ,67,25 years 144 days
+ ,0, , ,67,25 years 148 days
+ ,0,1,1,69,25 years 197 days
+ ,0, , ,69,25 years 200 days
+ ,0, , ,69,25 years 207 days
+ ,0,1, ,70,25 years 215 days
+ ,0,2, ,72,25 years 218 days
+ ,0,1, ,73,25 years 221 days
+ ,0, , ,73,25 years 224 days
+ ,0,1,2,76,25 years 252 days
+ ,0,1, ,77,25 years 254 days
+ ,0,3, ,80,25 years 258 days
+ ,0, ,1,81,25 years 306 days
+ ,0,1,1,83,25 years 308 days
+ ,0,1, ,84,25 years 333 days
+ ,0,2, ,86,25 years 336 days
+ ,0, ,3,89,25 years 337 days
+ ,0,1, ,90,25 years 356 days
+ ,0,1, ,91,25 years 358 days
+ ,0,2, ,93,26 years 39 days
+ ,0, , ,93,26 years 44 days
+ ,0,1, ,94,26 years 47 days
+ ,0, ,1,95,26 years 50 days
+ ,0, , ,95,26 years 53 days
+ ,0,5,1,101,26 years 56 days
+ ,0,1, ,102,26 years 59 days
+ ,0,1, ,103,26 years 62 days
+ ,0, ,1,104,26 years 83 days
+ ,0,1,1,106,26 years 86 days
+ ,0,1, ,107,26 years 89 days
+ ,0, ,2,109,26 years 92 days
+ ,0, , ,109,26 years 95 days
+ ,0,1, ,110,26 years 98 days
+ ,0,1, ,111,26 years 101 days
+ ,0, ,1,112,26 years 120 days
+ ,0, ,1,113,26 years 123 days
+ ,0, , ,113,26 years 126 days
+ ,0, , ,113,26 years 130 days
+ ,0,1,2,116,26 years 133 days
+ ,0,1, ,117,26 years 210 days
+ ,0, , ,117,26 years 211 days
+ ,0,4,1,122,26 years 217 days
+ ,0,1, ,123,26 years 219 days
+ ,0,3,1,127,26 years 224 days
+ ,0,1, ,128,26 years 226 days
+ ,0,1, ,129,26 years 231 days
+ ,0,3, ,132,26 years 233 days
+ ,0,2, ,134,26 years 238 days
+ ,0,3, ,137,26 years 240 days
+ ,0,2,1,140,26 years 338 days
+ ,0,1, ,141,26 years 340 days
+ ,0,1, ,142,26 years 342 days
+ ,0,1,3,146,26 years 353 days
+ ,0,1, ,147,26 years 354 days
+ ,0,2, ,149,26 years 356 days
+ ,0, , ,149,26 years 360 days
+ ,0,2, ,151,26 years 361 days
+ ,0,2, ,153,26 years 364 days
+ ,0, , ,153,27 years 42 days
+ ,0,1, ,154,27 years 44 days
+ ,0,2, ,156,27 years 48 days
+ ,0, ,1,157,27 years 51 days
+ ,0, , ,157,27 years 53 days
+ ,0,2,1,160,27 years 130 days
+ ,0, ,1,161,27 years 133 days
+ ,0,2,2,165,27 years 136 days
+ ,0, , ,165,27 years 139 days
+ ,0, , ,165,27 years 142 days
+ ,0, , ,165,27 years 205 days
+ ,0,1, ,166,27 years 208 days
+ ,0,1, ,167,27 years 211 days
+ ,0,2, ,169,27 years 213 days
+ ,0,1, ,170,27 years 216 days
+ ,0,1,1,172,27 years 239 days
+ ,0, , ,172,27 years 242 days
+ ,0, , ,172,27 years 244 days
+ ,0,1, ,173,27 years 247 days
+ ,0, , ,173,27 years 250 days
+ ,0,1, ,174,27 years 354 days
+ ,0, ,1,175,27 years 356 days
+ ,0,2,1,178,27 years 361 days
+ ,0,1, ,179,27 years 363 days
+ ,0,2, ,181,28 years 66 days
+ ,0,1,2,184,28 years 67 days
+ ,0,1,1,186,28 years 69 days
+ ,0,3, ,189,28 years 81 days
+ ,0, , ,189,28 years 83 days
+ ,0,2, ,191,28 years 85 days
+ ,0,1, ,192,28 years 110 days
+ ,0,1,1,194,28 years 113 days
+ ,0,1,1,196,28 years 116 days
+ ,0,1,1,198,28 years 118 days
+ ,0, , ,198,28 years 121 days
+ ,0, , ,198,28 years 124 days
+ ,0, ,2,200,28 years 161 days
+ ,0,1, ,201,28 years 164 days
+ ,0,1, ,202,28 years 173 days
+ ,0, , ,202,28 years 182 days
+ ,0, , ,202,28 years 184 days
+ ,0, ,1,203,28 years 187 days
+ ,0,1, ,204,28 years 188 days
+ ,0,1, ,205,28 years 190 days
+ ,0,1, ,206,28 years 229 days
+ ,0, , ,206,28 years 232 days
+ ,0, , ,206,28 years 235 days
+ ,0,3, ,209,28 years 344 days
+ ,0,2, ,211,28 years 347 days
+ ,0,1, ,212,28 years 350 days
+ ,0,4,1,217,28 years 352 days
+ ,0,2,1,220,29 years 33 days
+ ,0,1,1,222,29 years 39 days
+ ,0, , ,222,29 years 44 days
+ ,0,1, ,223,29 years 48 days
+ ,0,2, ,225,29 years 51 days
+ ,0, , ,225,29 years 104 days
+ ,0, , ,225,29 years 188 days
+ ,0,2, ,227,29 years 191 days
+ ,0, , ,227,29 years 194 days
+ ,0,1,1,229,29 years 197 days
+ ,0,1,1,231,29 years 199 days
+ ,0, ,1,232,29 years 226 days
+ ,0, , ,232,29 years 234 days
+ ,0,3, ,235,29 years 241 days
+ ,0,1, ,236,29 years 244 days
+ ,0,1,1,238,29 years 247 days
+ ,0, ,1,239,29 years 255 days
+ ,0, , ,239,29 years 259 days
+ ,0,1, ,240,29 years 265 days
+ ,0,1, ,241,29 years 268 days
+ ,0, , ,241,30 years 57 days
+ ,0, , ,241,30 years 60 days
+ ,0, , ,241,30 years 63 days
+ ,0, , ,241,30 years 65 days
+ ,0, , ,241,30 years 70 days
+ ,0,1,1,243,30 years 98 days
+ ,0,2, ,245,30 years 101 days
+ ,0, , ,245,30 years 104 days
+ ,0, , ,245,30 years 107 days
+ ,0,3, ,248,30 years 109 days
+ ,0, , ,248,30 years 212 days
+ ,0,1,2,251,30 years 215 days
+ ,0, , ,251,30 years 219 days
+ ,0,2, ,253,30 years 221 days
+ ,0, , ,253,30 years 226 days
+ ,0,2,1,256,30 years 233 days
+ ,0, , ,256,30 years 235 days
+ ,0,1, ,257,30 years 249 days
+ ,0, ,1,258,30 years 252 days
+ ,0, , ,258,30 years 254 days
+ ,0,1, ,259,31 years 14 days
+ ,0,1, ,260,31 years 17 days
+ ,0,1, ,261,31 years 21 days
+ ,0,2,1,264,31 years 24 days
+ ,0,1, ,265,31 years 28 days
+ ,0, , ,265,31 years 176 days
+ ,0, ,1,266,31 years 180 days
+ ,0,1,1,268,31 years 183 days
+ ,0, , ,268,31 years 188 days
+ ,0,3, ,271,31 years 192 days
+ ,0,3, ,274,31 years 196 days
+ ,0, , ,274,31 years 200 days
+ ,0, , ,274,31 years 204 days
+ ,0,2, ,276,31 years 334 days
+ ,0,1,1,278,31 years 339 days
+ ,0,2, ,280,31 years 343 days
+ ,0, ,1,281,31 years 348 days
+ ,0, ,2,283,31 years 351 days
+ ,0, , ,283,31 years 358 days
+ ,0,1,3,287,32 years 4 days
+ ,0, , ,287,32 years 98 days
+ ,0,1, ,288,32 years 101 days
+ ,0,1, ,289,32 years 104 days
+ ,0,1,1,291,32 years 108 days
+ ,0, , ,291,32 years 115 days
+ ,0, , ,291,32 years 118 days
+ ,0, ,1,292,32 years 137 days
+ ,0,3,1,296,32 years 140 days
+ ,0,1, ,297,32 years 143 days
+ ,0, , ,297,32 years 151 days
+ ,0,1,1,299,32 years 154 days
+ ,0, , ,299,32 years 157 days
+ ,0,2, ,301,32 years 196 days
+ ,0,2,1,304,32 years 199 days
+ ,0, , ,304,32 years 202 days
+ ,0, , ,304,32 years 205 days
+ ,0, , ,304,32 years 208 days
+ ,0, ,1,305,33 years 50 days
+ ,0,2,2,309,33 years 53 days
+ ,0, , ,309,33 years 56 days
+ ,0,1,1,311,33 years 59 days
+ ,0, , ,311,33 years 92 days
+ ,0, ,1,312,33 years 95 days
+ ,0, , ,312,33 years 101 days
+ ,0,2, ,314,33 years 194 days
+ ,0, , ,314,33 years 196 days
+ ,0, , ,314,33 years 202 days
+ ,0, , ,314,33 years 206 days
+ ,0,3, ,317,33 years 222 days
+ ,0, , ,317,33 years 229 days
+ ,0,2, ,319,33 years 235 days
+ ,0,2, ,321,33 years 241 days
+ ,0,2, ,323,33 years 245 days
+ ,0,2, ,325,33 years 249 days
+ ,0,4, ,329,33 years 254 days
